@@ -46,6 +46,13 @@ https://www.data.go.kr/data/15059653/openapi.do
 국가건강정보포털
 https://health.kdca.go.kr/healthinfo/#
 
+아두이노 센서
+[F1E12] 블루투스 BLE 초소형 모듈
+아두이노 무지향성 마이크 모듈 MH-ET I2S 인터페이스
+
+AI hub
+
+
 
 
 주제 2 : 가상 기반 육아 시뮬레이션(모바일 앱)
